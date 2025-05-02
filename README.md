@@ -1,13 +1,13 @@
 <h1 align="center">👋 Hey there, I'm Chinmaya Kolhe!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=06BEB0&center=true&width=500&lines=Full+Stack+Developer+%29+Android+Developer;Team+Player+%7C+Tech+Enthusiast;Lifelong+Learner+%7C+Passionate+Coder" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=06BEB0&center=true&width=500&lines=Full+Stack+Developer+%7C+Android+Developer;Team+Player+%7C+Tech+Enthusiast;Lifelong+Learner+%7C+Passionate+Coder" />
 </p>
 
 ---
 
 🎓 **S.Y. B.Tech IT Student @ PCCOE Pune**  
-💻 **Web & Android Developer**  
+💻 **Full Stack Web Developer & Android Developer**  
 🚀 **Currently Building:** TECHNOpired | RecycleEase | AgriCycle  
 
 ---
