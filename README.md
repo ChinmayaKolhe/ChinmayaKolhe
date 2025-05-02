@@ -24,12 +24,12 @@
 
 ### 📱 Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,java" />
 </p>
 
 ### 🗃️ Backend & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase,mysql" />
+  <img src="https://skillicons.dev/icons?i=firebase,mysql,mongodb" />
 </p>
 
 ### 🔧 Tools
