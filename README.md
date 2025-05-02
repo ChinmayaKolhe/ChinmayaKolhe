@@ -1,77 +1,95 @@
-<h1 align="center">🌟 Chinmaya Kolhe</h1>
-<h3 align="center">Coding Dreams into Digital Reality</h3>
+<h1 align="center">👋 Hey there, I'm Chinmaya Kolhe!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=06BEB0&center=true&width=500&lines=Full+Stack+Alchemist;Android+Architect;Innovation+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=06BEB0&center=true&width=500&lines=Full+Stack+Developer+%29+Android+Developer;Team+Player+%7C+Tech+Enthusiast;Lifelong+Learner+%7C+Passionate+Coder" />
 </p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ChinmayaKolhe/ChinmayaKolhe/main/assets/code_banner.gif" alt="Coding Banner" width="85%">
-</div>
+---
+
+🎓 **S.Y. B.Tech IT Student @ PCCOE Pune**
+💻 **Web & Android Developer**
+🚀 **Currently Building:** TECHNOpired | RecycleEase | AgriCycle
 
 ---
 
-## 🔥 Tech Arsenal
+## 🛠️ Tech Stack
 
-<div align="center">
-  
-  ### 🧠 Core Languages
-  <div>
-    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
-  </div>
-  
-  ### 🛠️ Development Tools
-  <div>
-    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  </div>
-  
-</div>
+### 💡 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,php,js,html,css" />
+</p>
+
+### ⚙️ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,firebase,mysql,git,bootstrap,vscode" />
+</p>
 
 ---
 
-## 🚀 Project Showcase
+## 💼 Skills Summary
 
-<div align="center">
-  
-  | Project | Description | Tech Stack |
-  |---------|-------------|------------|
-  | **RecycleEase** | Smart Waste Management | ML • Android • Firebase |
-  | **TECHNOpired** | Gamified Education | Java • Unity • MySQL |
-  | **AgriCycle** | Farmer Solutions | Python • PHP • AI |
-
-</div>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 
 ---
 
-## 📊 Code Chronicles
+## 🚀 Projects
 
-<div align="center">
-  
-  ```text
-  🏗️  This Week's Development Breakdown
-  ┌─────────────────────┬───────────────┐
-  │ Java                │ ████████░░░░  │ 80%
-  │ Python              │ ██████░░░░░░  │ 60%
-  │ PHP                 │ █████░░░░░░░  │ 50%
-  │ Android Development │ ████████░░░░  │ 85%
-  └─────────────────────┴───────────────┘
+* ♻️ **RecycleEase** – Smart Waste Management App with ML-based classification
+* 📚 **TECHNOpired** – Gamified Educational App for Dyslexic Children
+* 🌾 **AgriCycle** – AI Chatbot & Smart Services for Farmers (Loans, Waste, Community)
+
 ---
-🌟 About Me
-<div align="center"> <img src="https://raw.githubusercontent.com/ChinmayaKolhe/ChinmayaKolhe/main/assets/tech_journey.gif" alt="Tech Journey" width="70%"> </div>
-🎓 Computer Science Student @ PCCOE Pune
 
-💡 Passionate about building impactful solutions
+## 📈 GitHub Insights
 
-🌱 Currently learning Jetpack Compose & Cloud Computing
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChinmayaKolhe&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayaKolhe&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
+</p>
 
-⚡ Fun fact: I can solve a Rubik's cube blindfolded!
+---
 
-📈 GitHub Analytics
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ChinmayaKolhe&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChinmayaKolhe&theme=radical&hide_border=true" width="48%"> </div><div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChinmayaKolhe&theme=react-dark&hide_border=true&area=true" width="90%"> </div>
-🤝 Let's Connect
-<div align="center"> <a href="https://www.linkedin.com/in/chinmaya-kolhe/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="mailto:chinmayakolhe2005@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://github.com/ChinmayaKolhe" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> </a> </div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ChinmayaKolhe&label=Profile+Views&color=06beb0&style=flat" alt="Profile views"> <a href="https://github.com/ChinmayaKolhe?tab=followers"> <img src="https://img.shields.io/github/followers/ChinmayaKolhe?color=06beb0&logo=github&style=flat" alt="GitHub followers"> </a> </p><p align="center"> <em>"First, solve the problem. Then, write the code." — John Johnson</em> </p> ```
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ChinmayaKolhe&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=7" />
+</p>
+
+---
+
+## 💡 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ChinmayaKolhe&label=Profile+Views&color=06beb0&style=flat" />
+</p>
+
+---
+
+## 📬 Connect With Me
+
+<p align="left">
+  <a href="mailto:chinmayakolhe2005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/chinmaya-kolhe-34165524a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">✨ Thank you for visiting! Let’s build something amazing together 🚀</p>
