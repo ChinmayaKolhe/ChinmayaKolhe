@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm Chinmaya Kolhe!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=06BEB0&center=true&width=500&lines=Full Stack Developer+%26+Android+Developer;Team+Player+%7C+Tech+Enthusiast;Lifelong+Learner+%7C" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=06BEB0&center=true&width=500&lines=Full+Stack+%26+Android+Developer;Team+Player+%7C+Tech+Enthusiast;Lifelong+Learner+%7C+Hackathon+Lover" />
 </p>
 
 ---
@@ -40,9 +40,9 @@
 
 ## 🚀 Projects
 
-- ♻️ **RecycleEase** – Smart Waste Management App with ML integration  
-- 📚 **TECHNOpired** – Personalized Educational App for Dyslexic Children  
-- 🌾 **AgriCycle** – AI Chatbot & Smart Services for Farmers  
+- ♻️ **RecycleEase** – Smart Waste Management App with ML-based classification  
+- 📚 **TECHNOpired** – Gamified Educational App for Dyslexic Children  
+- 🌾 **AgriCycle** – AI Chatbot & Smart Services for Farmers (Loans, Waste, Community)
 
 ---
 
