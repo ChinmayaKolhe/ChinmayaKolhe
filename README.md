@@ -1,38 +1,56 @@
-## Hi there 👋
-
 # 👋 Hey there, I'm Chinmaya Kolhe!
 
-🎓 S.Y. B.Tech IT @ PCCOE Pune | 💻 Web & Android Dev Enthusiast  
-🚀 Currently Building: AI-Powered Agri Assistant | TECHNOpired | RecycleEase
+🎓 S.Y. B.Tech IT @ PCCOE Pune  
+💻 Web & Android Developer  
+🌱 Currently Working On: TECHNOpired | RecycleEase | AgriCycle
 
 ---
 
-## 💼 Skills & Technologies
-- **Languages:** Java, Python, PHP, JavaScript  
-- **Web Dev:** HTML, CSS, Bootstrap, ReactJS, PHP  
-- **Mobile Dev:** Android (Java)  
-- **Backend & Tools:** Firebase, MySQL, XAMPP, Git, GitHub  
+## ⚡ My Tech Stack
+
+### 🚀 Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,php,js,html,css" width="300"/>  
+</p>
+
+### 🧠 Frameworks, Libraries & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,androidstudio,firebase,mysql,git,bootstrap,vscode" width="350"/>
+</p>
 
 ---
 
-## 🔥 Current Projects
-- 🔄 **RecycleEase**: ML-based Waste Management App  
-- 🧠 **TECHNOpired**: Personalized Educational App for Dyslexic Children  
-- 🌾 **AgriCycle**: AI Chatbot for Farmers (Loans, Insurance, Schemes)
+## 🎯 Skills Summary
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Chinmaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChinmayaKolhe&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayaKolhe&layout=compact&theme=tokyonight)
+![Chinmaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChinmayaKolhe&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayaKolhe&layout=compact&theme=radical)
 
 ---
 
-## 📫 Connect With Me
+## 🔥 My Active Projects
 
-- [LinkedIn](https://www.linkedin.com/in/your-link)
-- 📧 chinmaya.yourmail@example.com
+- ♻️ **RecycleEase** – Smart Waste Management App using ML  
+- 📚 **TECHNOpired** – Educational App for Dyslexic Children  
+- 🌾 **AgriCycle** – AI Chatbot & Services for Farmers
+
+---
+
+
+- [LinkedIn](www.linkedin.com/in/chinmaya-kolhe-34165524a)
+- 📧 chinmayakolhe2005@gmail.com
 
 ---
 
