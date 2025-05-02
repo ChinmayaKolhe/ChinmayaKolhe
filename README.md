@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Chinmaya Kolhe</h1>
+<h1 align="center">Chinmaya Kolhe</h1>
 <h3 align="center">Full Stack Web & Android Developer</h3>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 🎓 **S.Y. B.Tech IT Student @ PCCOE Pune**  
 💻 **Full Stack Web Developer** | **Android Developer**  
-🔭 **Currently Working On:** TECHNOpired, RecycleEase, AgriCycle  
+  
 
 ---
 
@@ -39,19 +39,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| **RecycleEase** | Smart waste management system | Android • Firebase • ML |
-| **TECHNOpired** | Educational platform | Java • MySQL • Web |
-| **AgriCycle** | Farmer assistance portal | PHP • Android • AI |
-
-</div>
-
----
 
 ## 📊 Development Activity
 
