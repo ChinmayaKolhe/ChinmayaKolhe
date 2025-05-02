@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm Chinmaya Kolhe!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=06BEB0&center=true&width=500&lines=Full+Stack+%26+Android+Developer;Team+Player+%7C+Tech+Enthusiast;Lifelong+Learner+%7C+Passionate+Coder" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=06BEB0&center=true&width=500&lines=Full+Stack+Developer+%26+Android+Developer;Team+Player+%7C+Tech+Enthusiast;Lifelong+Learner+%7C+Passionate+Coder" />
 </p>
 
 ---
