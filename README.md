@@ -5,6 +5,8 @@
 🌱 Currently Working On: TECHNOpired | RecycleEase | AgriCycle
 
 ---
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&width=435&lines=Full+Stack+Dev+%7C+Android+Dev;Hackathon+Lover+%7C+Team+Player;Lifelong+Learner+%7C+Tech+Enthusiast" />
+
 
 ## ⚡ My Tech Stack
 
