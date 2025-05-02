@@ -1,16 +1,40 @@
 ## Hi there 👋
 
-<!--
-**ChinmayaKolhe/ChinmayaKolhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey there, I'm Chinmaya Kolhe!
 
-Here are some ideas to get you started:
+🎓 S.Y. B.Tech IT @ PCCOE Pune | 💻 Web & Android Dev Enthusiast  
+🚀 Currently Building: AI-Powered Agri Assistant | TECHNOpired | RecycleEase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 Skills & Technologies
+- **Languages:** Java, Python, PHP, JavaScript  
+- **Web Dev:** HTML, CSS, Bootstrap, ReactJS, PHP  
+- **Mobile Dev:** Android (Java)  
+- **Backend & Tools:** Firebase, MySQL, XAMPP, Git, GitHub  
+
+---
+
+## 🔥 Current Projects
+- 🔄 **RecycleEase**: ML-based Waste Management App  
+- 🧠 **TECHNOpired**: Personalized Educational App for Dyslexic Children  
+- 🌾 **AgriCycle**: AI Chatbot for Farmers (Loans, Insurance, Schemes)
+
+---
+
+## 📊 GitHub Stats
+
+![Chinmaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChinmayaKolhe&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayaKolhe&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/your-link)
+- 📧 chinmaya.yourmail@example.com
+
+---
+
+_Thanks for visiting my profile! Let's build something amazing 🚀_
+
