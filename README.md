@@ -27,19 +27,18 @@ A dedicated developer with hands-on experience in building web and Android appli
 
 ### 🌐 Web Development  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,jsp,mysql,mongodb,react,nodejs,express,java,servlet,spring" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,mysql,mongodb,react,nodejs,express,java,spring" />
 </p>
 
 ### 📱 Mobile Development  
 <p>
   <img src="https://skillicons.dev/icons?i=androidstudio,java,firebase" />  
-  <em>(Sensors: GPS, Accelerometer, Gyroscope)</em>
 </p>
 
 
 ### 🛠️ Tools & Platforms  
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,xampp,postman" />
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,xampp,intellij" />
 </p>
 
 ---
