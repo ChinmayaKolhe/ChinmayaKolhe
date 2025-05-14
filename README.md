@@ -38,10 +38,8 @@ A dedicated developer with hands-on experience in building web and Android appli
 
 ### 🛠️ Tools & Platforms  
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,idea,anaconda" />
-  <!-- Additional Badges -->
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,android,firebase,idea,anaconda" />
+
 </p>
 </p>
 
