@@ -17,6 +17,7 @@ A dedicated developer with hands-on experience in building web and Android appli
 
 ---
 
+
 ## 🛠️ Technical Skills
 
 ### 📜 Languages  
@@ -26,21 +27,28 @@ A dedicated developer with hands-on experience in building web and Android appli
 
 ### 🌐 Web Development  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,jsp,mysql,mongodb" />
 </p>
 
 ### 📱 Mobile Development  
 <p>
   <img src="https://skillicons.dev/icons?i=androidstudio,java,firebase" />  
+  <em>(Sensors: GPS, Accelerometer, Gyroscope)</em>
+</p>
 
+### 🎯 **Learning Now**  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,java,spring" />  
+  <em>MERN Stack | Full Stack Java (Spring Boot)</em>
 </p>
 
 ### 🛠️ Tools & Platforms  
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,xampp" />
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,xampp,postman" />
 </p>
 
 ---
+
 
 ## 💼 Experience & Projects
 
