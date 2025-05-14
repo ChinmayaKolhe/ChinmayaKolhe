@@ -10,12 +10,12 @@
 ## 👨‍💻 About Me
 
 🎓 **S.Y. B.Tech IT Student @ Pimpri Chinchwad College of Engineering, Pune** | **CGPA: 8.4**  
-🏆 **District Topper** (93.49%) in Diploma - Computer Engineering @ Government Polytechnic, Jalgaon  
+ 
 💡 Passionate about **Android Development**, **Full Stack Web**, and **Sustainable Tech Solutions**  
-🌱 Currently learning **Advanced Java, Data Science, and Firebase integrations**  
+
 
 🔹 **Summary**:  
-A dedicated developer with hands-on experience in building web and Android applications. Proven ability to deliver projects like *Agricycle* (AgriWaste Management) and *RecycleEase* (E-Waste App) with innovative features like AI-powered categorization and Google Maps API integration.  
+A dedicated developer with hands-on experience in building web and Android applications. 
 
 ---
 
@@ -28,13 +28,13 @@ A dedicated developer with hands-on experience in building web and Android appli
 
 ### 🌐 Web Development  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,jsp,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,mysql" />
 </p>
 
 ### 📱 Mobile Development  
 <p>
   <img src="https://skillicons.dev/icons?i=androidstudio,java,firebase" />  
-  <em>(Sensors: GPS, Accelerometer, Gyroscope)</em>
+
 </p>
 
 ### 🛠️ Tools & Platforms  
