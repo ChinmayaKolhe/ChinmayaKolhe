@@ -27,7 +27,7 @@ A dedicated developer with hands-on experience in building web and Android appli
 
 ### 🌐 Web Development  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,jsp,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,jsp,mysql,mongodb,react,nodejs,express,java,servlet,spring" />
 </p>
 
 ### 📱 Mobile Development  
@@ -36,11 +36,6 @@ A dedicated developer with hands-on experience in building web and Android appli
   <em>(Sensors: GPS, Accelerometer, Gyroscope)</em>
 </p>
 
-### 🎯 **Learning Now**  
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,java,spring" />  
-  <em>MERN Stack | Full Stack Java (Spring Boot)</em>
-</p>
 
 ### 🛠️ Tools & Platforms  
 <p>
