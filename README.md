@@ -1,60 +1,89 @@
 <h1 align="center">Chinmaya Kolhe</h1>
-<h3 align="center">Full Stack Web & Android Developer</h3>
+<h3 align="center">Full Stack Web & Android Developer | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=06BEB0&center=true&width=500&lines=Building+Scalable+Web+Applications;Crafting+Elegant+Mobile+Solutions;Clean+Code+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=06BEB0&center=true&width=500&lines=Building+Scalable+Web+Applications;Crafting+Elegant+Mobile+Solutions;Clean+Code+Enthusiast;93.49%25+Diploma+Topper" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 **S.Y. B.Tech IT Student @ PCCOE Pune**  
-💻 **Full Stack Web Developer** | **Android Developer**  
-  
+🎓 **S.Y. B.Tech IT Student @ Pimpri Chinchwad College of Engineering, Pune** | **CGPA: 8.4**  
+🏆 **District Topper** (93.49%) in Diploma - Computer Engineering @ Government Polytechnic, Jalgaon  
+💡 Passionate about **Android Development**, **Full Stack Web**, and **Sustainable Tech Solutions**  
+🌱 Currently learning **Advanced Java, Data Science, and Firebase integrations**  
+
+🔹 **Summary**:  
+A dedicated developer with hands-on experience in building web and Android applications. Proven ability to deliver projects like *Agricycle* (AgriWaste Management) and *RecycleEase* (E-Waste App) with innovative features like AI-powered categorization and Google Maps API integration.  
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical Skills
 
-### 🌐 Web Development
+### 📜 Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,php" />
 </p>
 
-### 📱 Mobile Development
+### 🌐 Web Development  
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,java" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,jsp,mysql" />
 </p>
 
-### 🗃️ Backend & Databases
+### 📱 Mobile Development  
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,java,firebase" />  
+  <em>(Sensors: GPS, Accelerometer, Gyroscope)</em>
 </p>
 
-### 🔧 Tools
+### 🛠️ Tools & Platforms  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,vscode" />
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,xampp" />
 </p>
 
 ---
 
+## 💼 Experience & Projects
 
-## 📊 Development Activity
+### 🔹 **Web Development Intern** @ Passion Software Solutions (Jun-Jul 2023)  
+- Built a **Mutual Funds Website** using Full Stack Java (JSP, MySQL).  
+- Implemented secure database connections and responsive UI.  
+
+### 🚀 Projects  
+| Project | Tech Stack | Highlights |  
+|---------|------------|------------|  
+| **[Agricycle](https://github.com/ChinmayaKolhe/Agricycle)** | PHP, MySQL, JS, Google Maps API | AI waste categorization, subsidy recommendations |  
+| **[RecycleEase](https://github.com/ChinmayaKolhe/RecycleEase)** | Android (Java), Firebase | E-waste pickup, donation services, admin panel |  
+| **[Compass & GPS Tracker](https://github.com/ChinmayaKolhe/Compass-GPS-Tracker)** | Android (Java), Sensors | Real-time location tracking with sensor fusion |  
+
+---
+
+## 📚 Education  
+- **B.Tech in Information Technology**  
+  Pimpri Chinchwad College of Engineering, Pune | 2024-Present | CGPA: 8.4  
+- **Diploma in Computer Engineering**  
+  Government Polytechnic, Jalgaon | 2021-2024 | **93.49% (District Topper)**  
+
+---
+
+## 📜 Certifications  
+- **Java** (Core + Advanced)  
+- **Android Development** (Java)  
+- **Python Programming**  
+
+---
+
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChinmayaKolhe&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayaKolhe&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChinmayaKolhe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayaKolhe&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
-## 🤝 Let's Connect
-
+## 🤝 Let's Connect  
 <p align="center">
   <a href="mailto:chinmayakolhe2005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -64,6 +93,9 @@
   </a>
   <a href="https://github.com/ChinmayaKolhe" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="tel:+918999316982">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
