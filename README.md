@@ -38,7 +38,7 @@ A dedicated developer with hands-on experience in building web and Android appli
 
 ### 🛠️ Tools & Platforms  
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,android,firebase,idea,anaconda" />
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,androidstudio,firebase,idea,anaconda" />
 
 </p>
 </p>
