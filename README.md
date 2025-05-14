@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Web & Android Developer | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=06BEB0&center=true&width=500&lines=Building+Scalable+Web+Applications;Crafting+Elegant+Mobile+Solutions;Clean+Code+Enthusiast;93.49%25+Diploma+Topper" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=06BEB0&center=true&width=500&lines=Building+Scalable+Web+Applications;Crafting+Elegant+Mobile+Solutions;Clean+Code+Enthusiast"/>
 </p>
 
 ---
