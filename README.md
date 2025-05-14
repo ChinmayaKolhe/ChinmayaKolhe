@@ -10,11 +10,8 @@
 ## 👨‍💻 About Me
 
 🎓 **S.Y. B.Tech IT Student @ Pimpri Chinchwad College of Engineering, Pune** | **CGPA: 8.4**  
- 
+---
 💡 Passionate about **Android Development**, **Full Stack Web**, and **Sustainable Tech Solutions**  
-
-
-🔹 **Summary**:  
 A dedicated developer with hands-on experience in building web and Android applications. 
 
 ---
