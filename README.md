@@ -96,7 +96,7 @@ A dedicated developer with hands-on experience in building web and Android appli
   <a href="https://github.com/ChinmayaKolhe" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="tel:+918999316982">
+  <a href="tel:+91 8999316982">
     <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
