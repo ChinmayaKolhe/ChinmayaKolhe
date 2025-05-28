@@ -63,9 +63,9 @@ A dedicated developer with hands-on experience in building web and Android appli
 
 ## 📚 Education  
 - **B.Tech in Information Technology**  
-  Pimpri Chinchwad College of Engineering, Pune | 2024-Present | CGPA: 8.4  
+  Pimpri Chinchwad College of Engineering, Pune | 2024-Present | CGPA: 8.6  
 - **Diploma in Computer Engineering**  
-  Government Polytechnic, Jalgaon | 2021-2024 | **93.49% (District Topper)**  
+  Government Polytechnic, Jalgaon | 2021-2024 | **93.49%**  
 
 ---
 
