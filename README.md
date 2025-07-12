@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 **S.Y. B.Tech IT Student @ Pimpri Chinchwad College of Engineering, Pune**
+🎓 **T.Y. B.Tech IT Student @ Pimpri Chinchwad College of Engineering, Pune**
 
 💡 Passionate about **Android Development**, **Full Stack Web**, and **Sustainable Tech Solutions**  
 
