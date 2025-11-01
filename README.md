@@ -27,7 +27,7 @@ A dedicated developer with hands-on experience in building web and Android appli
 
 ### 🌐 Web Development  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,mysql,mongodb,react,nodejs,express,java,spring" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,mysql,mongodb,react,nodejs,express" />
 </p>
 
 ### 📱 Mobile Development  
