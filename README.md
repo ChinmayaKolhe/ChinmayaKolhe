@@ -35,37 +35,34 @@ const chinmaya = {
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 <div align="center">
 
 ### Programming Languages
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,python,php" />
+</p>
 
 ### Web Technologies
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,tailwind" />
+</p>
 
 ### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
 
 ### Mobile Development
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,java" />
+</p>
 
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,firebase" />
+</p>
 
 </div>
 
@@ -77,6 +74,21 @@ const chinmaya = {
 <tr>
 <td width="50%" valign="top">
 
+### 📊 [CredScoreFolio](https://github.com/ChinmayaKolhe/CredScoreFolio)
+
+**Credit Health Visualization and Scoring Platform**
+
+![MERN](https://img.shields.io/badge/MERN-Stack-61DAFB?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-Auth-black?style=flat-square)
+
+- Full-stack web application built with **MERN stack** (MongoDB, Express.js, React.js, Node.js)
+- Developed a full-stack MERN fintech platform that simulates **credit scoring** and visualizes user **credit health**
+- Implemented **OCR-based document parsing**, **data-driven score modeling**, and **real-time dashboards**
+- Built secure **JWT authentication** and automated **PDF report generation**
+
+</td>
+<td width="50%" valign="top">
+
 ### 🚀 [VicharManthan](https://github.com/ChinmayaKolhe/VicharManthan)
 
 **Startup Collaboration Platform**
@@ -84,41 +96,9 @@ const chinmaya = {
 ![MERN](https://img.shields.io/badge/MERN-Stack-61DAFB?style=flat-square)
 ![Socket.io](https://img.shields.io/badge/Socket.io-Realtime-black?style=flat-square)
 
-A full-stack social platform enabling founders to share startup ideas and collaborate with skilled professionals.
-
-**Key Features:**
-- 💡 Idea publishing with categories and stages
-- 👥 Team proposal system for collaboration
-- 💬 Real-time chat using Socket.io
-- ⬆️ Community-based upvoting and commenting
-- 🔍 Search and filtering by category, popularity, and stage
-- 🔔 Real-time notifications system
-
-**Tech Stack:**  
-React.js, Node.js, Express.js, MongoDB, Socket.io, JWT Authentication
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 [CredScoreFolio](https://github.com/ChinmayaKolhe/CredScoreFolio)
-
-**Credit Health Visualization & Scoring Platform**
-
-![MERN](https://img.shields.io/badge/MERN-Stack-61DAFB?style=flat-square)
-![OCR](https://img.shields.io/badge/Tesseract-OCR-yellow?style=flat-square)
-
-Full-stack fintech platform that simulates credit scoring and visualizes user credit health.
-
-**Key Features:**
-- 📄 OCR-based document parsing (Tesseract.js)
-- 🎯 Data-driven credit score modeling (300-850)
-- 📈 Real-time interactive dashboards with Chart.js
-- 📋 Automated PDF report generation
-- 🔒 Secure JWT authentication
-- 💡 Personalized recommendations
-
-**Tech Stack:**  
-React.js, Node.js, Express.js, MongoDB, Tesseract.js, PDFKit, Chart.js
+- Designed and developed a **full-stack social platform** enabling founders to share startup ideas and collaborate with skilled professionals
+- Implemented features like **idea publishing**, **team proposals**, **real-time chat** using Socket.io, and community-based **upvoting and commenting**
+- Integrated **search and filtering** for ideas by category, popularity, and stage to enhance discoverability
 
 </td>
 </tr>
@@ -133,20 +113,11 @@ React.js, Node.js, Express.js, MongoDB, Tesseract.js, PDFKit, Chart.js
 **AI-Powered Medical Diagnosis System**
 
 ![Python](https://img.shields.io/badge/Python-ML-3670A0?style=flat-square)
-![AI](https://img.shields.io/badge/Computer-Vision-orange?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/EfficientNetV2-Model-orange?style=flat-square)
 
-Healthcare application leveraging machine learning and computer vision for early detection of hemifacial spasm.
-
-**Key Features:**
-- 🤖 Machine learning model for spasm detection
-- 📹 Real-time video analysis
-- 🎯 Facial landmark tracking
-- 📊 Diagnostic accuracy metrics
-- 🏥 Clinical decision support system
-- 📈 Patient monitoring dashboard
-
-**Tech Stack:**  
-Python, TensorFlow/PyTorch, OpenCV, NumPy, Pandas
+- Created comprehensive **patient database** for hemifacial spasm diagnosis
+- Developed detection system using **EfficientNetV2 model** to identify whether a person is suffering from hemifacial spasm
+- Implemented automated diagnosis pipeline for accurate spasm detection
 
 </td>
 <td width="50%" valign="top">
@@ -171,18 +142,16 @@ Check my [GitHub](https://github.com/ChinmayaKolhe?tab=repositories) for more!
 ### 🏢 MERN Stack Developer
 **PCCOE Dean Office, Pune** | *May 2025 - Jun 2025*
 
-- 🎓 Engineered a personalized learning platform with interactive quiz modules
-- 💬 Implemented real-time student-faculty communication system
+- 🎓 Engineered a personalized learning platform featuring interactive quiz modules, reducing manual assessment time
+- 💬 Implemented a real-time student-faculty communication system to improve engagement and feedback loops
 - ⚡ Built responsive front-end components and optimized database performance
-- 🔄 Reduced manual assessment time through automation
 
 ### 🏢 Web Developer Intern
 **Passion Software Solutions, Jalgaon** | *Jan 2024 - Apr 2024*
 
-- 🏦 Built and deployed **Mutual Funds Web Application**
-- 💻 Learned HTML, CSS, JavaScript, JSP, jQuery, Bootstrap
-- 🎨 Gained experience in responsive UI and front-end design
-- 👥 Collaborated on real-world projects with development team
+- 💻 Learned and applied HTML, CSS, JavaScript, JSP, jQuery, Bootstrap for dynamic web development
+- 🏦 Built and deployed a **Mutual Funds Web Application** as part of internship project
+- 👥 Gained experience in front-end design, responsive UI, and team collaboration on real-world projects
 
 ---
 
@@ -214,11 +183,11 @@ Check my [GitHub](https://github.com/ChinmayaKolhe?tab=repositories) for more!
 
 ## 🏆 Achievements & Certifications
 
-- 🥇 **District Topper** - Diploma Computer Engineering (93.49%)
-- 📜 **Copyright** - Solar-Powered Automated Smart Gardening System
-- 📱 **Android Application Development** - Java & Android Studio
-- ☕ **Core Java & Advanced Java Technologies** - Certified
-- 💻 **DevClash Hackathon** - Participant at D.Y. Patil College, Pune
+- 🥇 **Academic Excellence** - District Topper in Diploma Computer Engineering (93.49%)
+- 🌱 **Innovation Award** - Copyright for Solar-Powered Automated Smart Gardening System
+- 📱 **Android Application Development** - Java and Android Studio
+- ☕ **Core Java Programming and Advanced Java Technologies**
+- 💻 **Hackathon Achievement** - Participant, DevClash Hackathon at D.Y. Patil College, Pune
 
 ---
 
