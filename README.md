@@ -21,23 +21,21 @@
 const chinmaya = {
     education: "T.Y. B.Tech IT @ Pimpri Chinchwad College of Engineering, Pune",
     cgpa: 8.6,
-    location: "Pimpri, Maharashtra, IN",
+    location: "Pune, Maharashtra, IN",
     currentRole: "MERN Stack Developer",
-    interests: ["Web Development", "System Design", "End-to-End Development"],
+    interests: ["Web Development", "Android Development"],
     currentFocus: "Building scalable full-stack applications"
 };
 ```
 
 🎓 **Pre-final year B.Tech IT Student** | CGPA: **8.6**  
 💻 Specializing in **MERN Stack Development** with hands-on experience in full-scale applications  
-🌱 Passionate about **end-to-end development** and **system design**  
-⚡ Former **Web Development Intern** @ Passion Software Solutions
 
 ---
 
 ## 🛠️ Technical Skills
 
-<div align="center">
+<div>
 
 ### Programming Languages
 <p>
