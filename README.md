@@ -28,6 +28,8 @@ const chinmaya = {
 };
 ```
 
+### 🌐 Portfolio  
+🔗 **https://chinmayakolhe.netlify.app/**  
 🎓 **Pre-final year B.Tech IT Student** | CGPA: **8.6**  
 💻 Specializing in **MERN Stack Development** with hands-on experience in full-scale applications  
 
@@ -201,17 +203,7 @@ Check my [GitHub](https://github.com/ChinmayaKolhe?tab=repositories) for more!
 
 </div>
 
----
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=ChinmayaKolhe&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
-
-</div>
-
----
 
 ## 🤝 Connect With Me
 
