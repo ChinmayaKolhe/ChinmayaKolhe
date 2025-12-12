@@ -165,7 +165,7 @@ Check my [GitHub](https://github.com/ChinmayaKolhe?tab=repositories) for more!
 **Pimpri Chinchwad College of Engineering, Pune**  
 📚 Information Technology  
 📅 2024 - Present  
-⭐ CGPA: **8.6/10**
+⭐ CGPA: **8.75/10**
 
 </td>
 <td width="50%">
