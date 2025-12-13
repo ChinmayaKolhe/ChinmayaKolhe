@@ -133,7 +133,7 @@ const chinmaya = {
 </td>
 <td width="50%" valign="top">
 
-### 🏥 [Hemifacial Spasm Detection](https://github.com/ChinmayaKolhe/hemifacial_spasm)
+### 🏥 [Hemifacial Spasm Detection](https://github.com/ChinmayaKolhe/Hemifacial_spasm_Detection)
 **AI-Powered Medical Diagnosis System**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
