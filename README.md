@@ -1,21 +1,50 @@
+
 <div align="center">
+ 
+ <h1 align="center">&nbsp;HELLO, I'M CHINMAYA KOLHE&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
-# 👋 Hi, I'm Chinmaya Kolhe
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=06BEB0&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Building+Scalable+Solutions;Problem+Solver+%26+Innovator" alt="Typing SVG" />
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=06BEB0&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Developerr;Open+Source+Contributor;Problem+Solver+%26+Innovator" alt="Typing SVG" />
+  </a>
+</h3>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
-[![Email](https://img.shields.io/badge/Email-chinmayakolhe2005%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinmayakolhe2005@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinmaya-kolhe-34165524a)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChinmayaKolhe)
-[![Profile Views](https://komarev.com/ghpvc/?username=ChinmayaKolhe&label=Profile+Views&color=06beb0&style=for-the-badge)](https://github.com/ChinmayaKolhe)
+<br/><br/>
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinmayakolhe2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinmaya-kolhe-34165524a)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChinmayaKolhe)
+[![Profile Views](https://img.shields.io/badge/Profile_Views-06BEB0?style=for-the-badge&logo=eye&logoColor=white)](https://komarev.com/ghpvc/?username=ChinmayaKolhe&label=Profile+Views&color=06beb0&style=for-the-badge)
 
 </div>
 
 ---
 
+<details>
+  <summary><h2>✨ Table of Contents</h2></summary>
+  
+  - [🚀 About Me](#-about-me)
+  - [🛠️ Technical Skills](#-technical-skills)
+  - [💼 Featured Projects](#-featured-projects)
+  - [💼 Professional Experience](#-professional-experience)
+  - [🎓 Education](#-education)
+  - [🏆 Achievements](#-achievements--certifications)
+  - [📊 GitHub Stats](#-github-statistics)
+  
+</details>
+
+---
+
 ## 🚀 About Me
+
+<div align="center">
+🎓 <b>Pre-final year B.Tech IT Student</b> | CGPA: <b>8.6</b> <br/>
+💻 Specializing in <b>MERN Stack Development</b> with hands-on experience in full-scale applications
+</div>
+
+<br/>
 
 ```javascript
 const chinmaya = {
@@ -24,47 +53,32 @@ const chinmaya = {
     location: "Pune, Maharashtra, IN",
     currentRole: "MERN Stack Developer",
     interests: ["Web Development", "Android Development"],
-    currentFocus: "Building scalable full-stack applications"
+    currentFocus: "Building scalable full-stack applications",
+    portfolio: "https://chinmayakolhe.netlify.app/"
 };
 ```
-
-### 🌐 Portfolio  
-🔗 **https://chinmayakolhe.netlify.app/**  
-🎓 **Pre-final year B.Tech IT Student** | CGPA: **8.6**  
-💻 Specializing in **MERN Stack Development** with hands-on experience in full-scale applications  
 
 ---
 
 ## 🛠️ Technical Skills
 
-<div>
+<div align="center">
 
-### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,python,php" />
-</p>
+### 👨‍💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=java,js,python,php&theme=dark" />
 
-### Web Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,tailwind" />
-</p>
+### 🌐 Web Technologies
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,tailwind,redux,html,css&theme=dark" />
 
-### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-</p>
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgres&theme=dark" />
 
-### Mobile Development
-<p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,java" />
-</p>
-
-### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,firebase" />
-</p>
+### 📱 Mobile & Tools
+<img src="https://skillicons.dev/icons?i=androidstudio,git,github,vscode,idea,postman,figma&theme=dark" />
 
 </div>
+
+---
 
 ## 💼 Featured Projects
 
@@ -73,33 +87,31 @@ const chinmaya = {
 <td width="50%" valign="top">
 
 ### 📚 [Storyloom AI](https://github.com/ChinmayaKolhe/Storyloom)
-
 **AI-Powered Illustrated Storybook Generator**
 
-![MERN](https://img.shields.io/badge/MERN-Stack-61DAFB?style=flat-square)
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-Transformers-yellow?style=flat-square)
-![Groq](https://img.shields.io/badge/Groq-LLM-orange?style=flat-square)
+![MERN](https://img.shields.io/badge/MERN-Stack-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HuggingFace](https://img.shields.io/badge/Hugging_Face-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-- Built an AI platform to transform **real-life memories into illustrated digital storybooks**
-- Integrated **Groq LLM inference** for low-latency story generation
-- Used **Hugging Face transformer models** for scene breakdown and narrative structuring
-- Implemented **Stable Diffusion** for multi-style image generation
-- Generated **print-ready PDFs** with secure **JWT-based APIs**
+> Built an AI platform to transform **real-life memories into illustrated digital storybooks**.
+>
+> - ⚡ **Groq LLM inference** for low-latency generation
+> - 🖼️ **Stable Diffusion** for multi-style imagery
+> - 📄 **PDF Generation** with secure JWT-based APIs
 
 </td>
 <td width="50%" valign="top">
 
 ### 🚀 [VicharManthan](https://github.com/ChinmayaKolhe/VicharManthan)
-
 **Startup Idea Sharing & Collaboration Platform**
 
-![MERN](https://img.shields.io/badge/MERN-Stack-61DAFB?style=flat-square)
-![Socket.io](https://img.shields.io/badge/Socket.io-Realtime-black?style=flat-square)
+![MERN](https://img.shields.io/badge/MERN-Stack-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Socket.io](https://img.shields.io/badge/Socket.io-Realtime-010101?style=flat-square&logo=socket.io&logoColor=white)
 
-- Designed and developed a **full-stack social platform** for startup founders and collaborators
-- Implemented **idea publishing**, **team proposals**, and **community-based upvoting & commenting**
-- Integrated **real-time chat and notifications** using Socket.io
-- Added **search and filtering** by category, popularity, and stage to enhance discoverability
+> A **full-stack social platform** for startup founders.
+>
+> - 💡 **Idea publishing** & team proposals
+> - 💬 **Real-time chat** via Socket.io
+> - 🔍 **Advanced filtering** by category/stage
 
 </td>
 </tr>
@@ -108,45 +120,40 @@ const chinmaya = {
 <td width="50%" valign="top">
 
 ### 🏠 [RentEz](https://github.com/ChinmayaKolhe/RentEz)
-
 **Property Rental & Management Platform**
 
-![MERN](https://img.shields.io/badge/MERN-Stack-61DAFB?style=flat-square)
-![Mapbox](https://img.shields.io/badge/Mapbox-Maps-blue?style=flat-square)
-![Recharts](https://img.shields.io/badge/Recharts-Analytics-green?style=flat-square)
+![MERN](https://img.shields.io/badge/MERN-Stack-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Mapbox](https://img.shields.io/badge/Mapbox-Maps-4264fb?style=flat-square&logo=mapbox&logoColor=white)
 
-- Built a rental management system for **property owners and tenants**
-- Implemented **property listings, tenant applications, leases, and rent tracking**
-- Integrated **Mapbox** for property location visualization
-- Developed **analytics dashboards** using Recharts for revenue and occupancy insights
-- Enabled **real-time owner–tenant chat** and payment verification
+> Comprehensive rental management system.
+>
+> - 🗺️ **Mapbox integration** for property visualization
+> - 📊 **Analytics dashboards** with Recharts
+> - 🔐 **Payment verification** & owner-tenant chat
 
 </td>
 <td width="50%" valign="top">
 
-### 🏥 Hemifacial Spasm Detection(https://github.com/ChinmayaKolhe/hemifacial_spasm)
-
+### 🏥 [Hemifacial Spasm Detection](https://github.com/ChinmayaKolhe/hemifacial_spasm)
 **AI-Powered Medical Diagnosis System**
 
-![Python](https://img.shields.io/badge/Python-ML-3670A0?style=flat-square)
-![TensorFlow](https://img.shields.io/badge/EfficientNetV2-Model-orange?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-- Created comprehensive **patient database** for hemifacial spasm diagnosis
-- Developed detection system using **EfficientNetV2** to identify spasm conditions
-- Implemented automated diagnosis pipeline for accurate medical predictions
+> Automated diagnosis pipeline for medical predictions.
+>
+> - 🧠 **EfficientNetV2** for condition identification
+> - 📂 Comprehensive **patient database** management
+> - 🩺 **High accuracy** medical predictions
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
-
-### 💼 More Projects Coming Soon...
-
-Check my [GitHub](https://github.com/ChinmayaKolhe?tab=repositories) for more!
-
+<a href="https://github.com/ChinmayaKolhe?tab=repositories">
+<img src="https://img.shields.io/badge/See%20More%20Projects-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 </div>
 
 ---
@@ -155,17 +162,15 @@ Check my [GitHub](https://github.com/ChinmayaKolhe?tab=repositories) for more!
 
 ### 🏢 MERN Stack Developer
 **PCCOE Dean Office, Pune** | *May 2025 - Jun 2025*
-
-- 🎓 Engineered a personalized learning platform featuring interactive quiz modules, reducing manual assessment time
-- 💬 Implemented a real-time student-faculty communication system to improve engagement and feedback loops
-- ⚡ Built responsive front-end components and optimized database performance
+- 🎓 Engineered a **personalized learning platform** with interactive quizzes.
+- 💬 Implemented **real-time communication** for student-faculty engagement.
+- ⚡ Optimized database performance and built responsive UI.
 
 ### 🏢 Web Developer Intern
 **Passion Software Solutions, Jalgaon** | *Jan 2024 - Apr 2024*
-
-- 💻 Learned and applied HTML, CSS, JavaScript, JSP, jQuery, Bootstrap for dynamic web development
-- 🏦 Built and deployed a **Mutual Funds Web Application** as part of internship project
-- 👥 Gained experience in front-end design, responsive UI, and team collaboration on real-world projects
+- 🏦 Built and deployed a **Mutual Funds Web Application**.
+- � Applied **JSP, jQuery, and Bootstrap** for dynamic development.
+- 👥 Collaborated on real-world front-end design projects.
 
 ---
 
@@ -187,7 +192,7 @@ Check my [GitHub](https://github.com/ChinmayaKolhe?tab=repositories) for more!
 ### 📜 Diploma in Computer Engineering
 **Government Polytechnic, Jalgaon**  
 📅 2021 - 2024  
-🏆 Percentage: **93.49%** (District Topper)
+🏆 **93.49%** (District Topper)
 
 </td>
 </tr>
@@ -199,9 +204,9 @@ Check my [GitHub](https://github.com/ChinmayaKolhe?tab=repositories) for more!
 
 - 🥇 **Academic Excellence** - District Topper in Diploma Computer Engineering (93.49%)
 - 🌱 **Innovation Award** - Copyright for Solar-Powered Automated Smart Gardening System
-- 📱 **Android Application Development** - Java and Android Studio
-- ☕ **Core Java Programming and Advanced Java Technologies**
-- 💻 **Hackathon Achievement** - Participant, DevClash Hackathon at D.Y. Patil College, Pune
+- 📱 **Android App Development** - Java & Android Studio
+- ☕ **Core & Advanced Java** - Certification
+- 💻 **Hackathon Achievement** - Participant, DevClash Hackathon
 
 ---
 
@@ -209,15 +214,25 @@ Check my [GitHub](https://github.com/ChinmayaKolhe?tab=repositories) for more!
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ChinmayaKolhe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChinmayaKolhe&theme=tokyonight&hide_border=true" width="48%" />
+<a href="https://github.com/ChinmayaKolhe">
+<img src="https://github-readme-stats.vercel.app/api?username=ChinmayaKolhe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayaKolhe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChinmayaKolhe&theme=tokyo-night&hide_border=true" width="48%" />
+<br/>
+
+<a href="https://github.com/ChinmayaKolhe">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChinmayaKolhe&theme=tokyonight&hide_border=true" />
+</a>
+
+<br/>
+
+<a href="https://github.com/ChinmayaKolhe">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayaKolhe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</a>
 
 </div>
 
-
+---
 
 ## 🤝 Connect With Me
 
@@ -232,23 +247,16 @@ Check my [GitHub](https://github.com/ChinmayaKolhe?tab=repositories) for more!
 <a href="https://github.com/ChinmayaKolhe">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<a href="https://instagram.com/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
-</div>
-
----
-
-<div align="center">
+<br/><br/>
 
 ### 💭 Quote of the Day
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-**💼 Open to collaborations on innovative projects!**  
-**📧 Feel free to reach out for opportunities or just a tech chat!**
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
