@@ -66,49 +66,65 @@ const chinmaya = {
 
 </div>
 
----
-
 ## 💼 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📊 [CredScoreFolio](https://github.com/ChinmayaKolhe/CredScoreFolio)
+### 📚 [Storyloom AI](https://github.com/ChinmayaKolhe/Storyloom)
 
-**Credit Health Visualization and Scoring Platform**
+**AI-Powered Illustrated Storybook Generator**
 
 ![MERN](https://img.shields.io/badge/MERN-Stack-61DAFB?style=flat-square)
-![JWT](https://img.shields.io/badge/JWT-Auth-black?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-Transformers-yellow?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq-LLM-orange?style=flat-square)
 
-- Full-stack web application built with **MERN stack** (MongoDB, Express.js, React.js, Node.js)
-- Developed a full-stack MERN fintech platform that simulates **credit scoring** and visualizes user **credit health**
-- Implemented **OCR-based document parsing**, **data-driven score modeling**, and **real-time dashboards**
-- Built secure **JWT authentication** and automated **PDF report generation**
+- Built an AI platform to transform **real-life memories into illustrated digital storybooks**
+- Integrated **Groq LLM inference** for low-latency story generation
+- Used **Hugging Face transformer models** for scene breakdown and narrative structuring
+- Implemented **Stable Diffusion** for multi-style image generation
+- Generated **print-ready PDFs** with secure **JWT-based APIs**
 
 </td>
 <td width="50%" valign="top">
 
 ### 🚀 [VicharManthan](https://github.com/ChinmayaKolhe/VicharManthan)
 
-**Startup Collaboration Platform**
+**Startup Idea Sharing & Collaboration Platform**
 
 ![MERN](https://img.shields.io/badge/MERN-Stack-61DAFB?style=flat-square)
 ![Socket.io](https://img.shields.io/badge/Socket.io-Realtime-black?style=flat-square)
 
-- Designed and developed a **full-stack social platform** enabling founders to share startup ideas and collaborate with skilled professionals
-- Implemented features like **idea publishing**, **team proposals**, **real-time chat** using Socket.io, and community-based **upvoting and commenting**
-- Integrated **search and filtering** for ideas by category, popularity, and stage to enhance discoverability
+- Designed and developed a **full-stack social platform** for startup founders and collaborators
+- Implemented **idea publishing**, **team proposals**, and **community-based upvoting & commenting**
+- Integrated **real-time chat and notifications** using Socket.io
+- Added **search and filtering** by category, popularity, and stage to enhance discoverability
 
 </td>
 </tr>
-</table>
 
-<table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 Hemifacial Spasm Detection
+### 🏠 [RentEz](https://github.com/ChinmayaKolhe/RentEz)
+
+**Property Rental & Management Platform**
+
+![MERN](https://img.shields.io/badge/MERN-Stack-61DAFB?style=flat-square)
+![Mapbox](https://img.shields.io/badge/Mapbox-Maps-blue?style=flat-square)
+![Recharts](https://img.shields.io/badge/Recharts-Analytics-green?style=flat-square)
+
+- Built a rental management system for **property owners and tenants**
+- Implemented **property listings, tenant applications, leases, and rent tracking**
+- Integrated **Mapbox** for property location visualization
+- Developed **analytics dashboards** using Recharts for revenue and occupancy insights
+- Enabled **real-time owner–tenant chat** and payment verification
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 Hemifacial Spasm Detection(https://github.com/ChinmayaKolhe/hemifacial_spasm)
 
 **AI-Powered Medical Diagnosis System**
 
@@ -116,13 +132,15 @@ const chinmaya = {
 ![TensorFlow](https://img.shields.io/badge/EfficientNetV2-Model-orange?style=flat-square)
 
 - Created comprehensive **patient database** for hemifacial spasm diagnosis
-- Developed detection system using **EfficientNetV2 model** to identify whether a person is suffering from hemifacial spasm
-- Implemented automated diagnosis pipeline for accurate spasm detection
+- Developed detection system using **EfficientNetV2** to identify spasm conditions
+- Implemented automated diagnosis pipeline for accurate medical predictions
 
 </td>
-<td width="50%" valign="top">
+</tr>
+</table>
 
 <div align="center">
+
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
 
 ### 💼 More Projects Coming Soon...
@@ -130,10 +148,6 @@ const chinmaya = {
 Check my [GitHub](https://github.com/ChinmayaKolhe?tab=repositories) for more!
 
 </div>
-
-</td>
-</tr>
-</table>
 
 ---
 
