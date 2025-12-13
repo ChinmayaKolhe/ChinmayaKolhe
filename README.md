@@ -22,8 +22,7 @@
 
 ---
 
-<details>
-  <summary><h2>✨ Table of Contents</h2></summary>
+<h2>✨ Table of Contents</h2></summary>
   
   - [🚀 About Me](#-about-me)
   - [🛠️ Technical Skills](#-technical-skills)
@@ -33,7 +32,7 @@
   - [🏆 Achievements](#-achievements--certifications)
   - [📊 GitHub Stats](#-github-statistics)
   
-</details>
+
 
 ---
 
