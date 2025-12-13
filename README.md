@@ -38,8 +38,8 @@
 
 ## 🚀 About Me
 
-<div align="center">
-🎓 <b>Pre-final year B.Tech IT Student</b> | CGPA: <b>8.6</b> <br/>
+<div>
+🎓 <b>Pre-final year B.Tech IT Student</b> | CGPA: <b>8.75</b> <br/>
 💻 Specializing in <b>MERN Stack Development</b> with hands-on experience in full-scale applications
 </div>
 
@@ -48,7 +48,7 @@
 ```javascript
 const chinmaya = {
     education: "T.Y. B.Tech IT @ Pimpri Chinchwad College of Engineering, Pune",
-    cgpa: 8.6,
+    cgpa: 8.75/10,
     location: "Pune, Maharashtra, IN",
     currentRole: "MERN Stack Developer",
     interests: ["Web Development", "Android Development"],
@@ -61,7 +61,7 @@ const chinmaya = {
 
 ## 🛠️ Technical Skills
 
-<div align="center">
+<div>
 
 ### 👨‍💻 Programming Languages
 <img src="https://skillicons.dev/icons?i=java,js,python,php&theme=dark" />
