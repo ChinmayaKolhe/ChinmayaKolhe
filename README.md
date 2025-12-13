@@ -70,7 +70,7 @@ const chinmaya = {
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,tailwind,html,css&theme=dark" />
 
 ### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark" />
 
 ### 📱 Mobile & Tools
 <img src="https://skillicons.dev/icons?i=androidstudio,git,github,vscode,idea,postman,&theme=dark" />
