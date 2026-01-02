@@ -149,11 +149,9 @@ const chinmaya = {
 </tr>
 </table>
 
-<div align="center">
-<a href="https://github.com/ChinmayaKolhe?tab=repositories">
-<img src="https://img.shields.io/badge/See%20More%20Projects-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</div>
+<div align="center"><a href="https://github.com/chinmayakolhe"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chinmayakolhe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Chinmaya's GitHub Stats" /> </a>
+<a href="https://github.com/chinmayakolhe"> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=chinmayakolhe&theme=tokyonight&hide_border=true" alt="Chinmaya's GitHub Streak" /> </a>
+<a href="https://github.com/chinmayakolhe"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmayakolhe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Chinmaya's Top Languages" /> </a></div>
 
 ---
 
