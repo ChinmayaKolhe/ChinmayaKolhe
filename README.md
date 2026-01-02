@@ -149,9 +149,6 @@ const chinmaya = {
 </tr>
 </table>
 
-<div align="center"><a href="https://github.com/chinmayakolhe"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chinmayakolhe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Chinmaya's GitHub Stats" /> </a>
-<a href="https://github.com/chinmayakolhe"> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=chinmayakolhe&theme=tokyonight&hide_border=true" alt="Chinmaya's GitHub Streak" /> </a>
-<a href="https://github.com/chinmayakolhe"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmayakolhe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Chinmaya's Top Languages" /> </a></div>
 
 ---
 
@@ -210,22 +207,12 @@ const chinmaya = {
 ## 📊 GitHub Statistics
 
 <div align="center">
+## 📈 Live GitHub Activity
 
-<a href="https://github.com/ChinmayaKolhe">
-<img src="https://github-readme-stats.vercel.app/api?username=ChinmayaKolhe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChinmayaKolhe&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=ChinmayaKolhe&theme=tokyonight&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ChinmayaKolhe&theme=tokyo-night&hide_border=true)
 
-<br/>
-
-<a href="https://github.com/ChinmayaKolhe">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChinmayaKolhe&theme=tokyonight&hide_border=true" />
-</a>
-
-<br/>
-
-<a href="https://github.com/ChinmayaKolhe">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayaKolhe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</a>
 
 </div>
 
