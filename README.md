@@ -208,10 +208,11 @@ const chinmaya = {
 
 <div align="center">
 ## 📈 Live GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChinmayaKolhe&show_icons=true&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=ChinmayaKolhe&theme=tokyonight&hide_border=true)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ChinmayaKolhe&theme=tokyo-night&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=ChinmayaKolhe&label=Profile+Views&color=06beb0&style=for-the-badge)
+![Snake animation](https://github.com/ChinmayaKolhe/ChinmayaKolhe/blob/output/github-contribution-grid-snake.svg)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayaKolhe&layout=compact&theme=tokyonight&hide_border=true)
+
 
 
 </div>
