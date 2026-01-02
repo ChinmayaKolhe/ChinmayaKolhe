@@ -207,13 +207,21 @@ const chinmaya = {
 ## 📊 GitHub Statistics
 
 <div align="center">
+
 ## 📈 Live GitHub Activity
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ChinmayaKolhe&theme=tokyo-night&hide_border=true)
-![Profile Views](https://komarev.com/ghpvc/?username=ChinmayaKolhe&label=Profile+Views&color=06beb0&style=for-the-badge)
-![Snake animation](https://github.com/ChinmayaKolhe/ChinmayaKolhe/blob/output/github-contribution-grid-snake.svg)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayaKolhe&layout=compact&theme=tokyonight&hide_border=true)
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chinmayakolhe&theme=tokyo-night&hide_border=true&height=300)
+![Profile Views](https://komarev.com/ghpvc/?username=chinmayakolhe&label=Profile+Views&color=06beb0&style=for-the-badge)
 
+<!-- Simple snake animation without GitHub Action -->
+![Snake animation](https://github.com/chinmayakolhe/chinmayakolhe/blob/output/github-contribution-grid-snake.svg)
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chinmayakolhe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=chinmayakolhe&theme=tokyonight&hide_border=true" />
+</div>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmayakolhe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
