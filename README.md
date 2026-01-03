@@ -15,7 +15,8 @@
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinmayakolhe2005@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinmaya-kolhe-34165524a)
-[![Profile Views](https://img.shields.io/badge/Profile_Views-06BEB0?style=for-the-badge&logo=eye&logoColor=white)](https://komarev.com/ghpvc/?username=ChinmayaKolhe&label=Profile+Views&color=06beb0&style=for-the-badge)
+[![Profile Views](https://komarev.com/ghpvc/?username=ChinmayaKolhe&label=Profile%20Views&color=06beb0&style=for-the-badge)](https://github.com/ChinmayaKolhe)
+
 
 </div>
 
