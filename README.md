@@ -30,7 +30,6 @@
   - [💼 Professional Experience](#-professional-experience)
   - [🎓 Education](#-education)
   - [🏆 Achievements](#-achievements--certifications)
-  - [📊 GitHub Stats](#-github-statistics)
   
 
 
